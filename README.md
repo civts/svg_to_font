@@ -7,8 +7,8 @@ This repo contains a simple python script that can easily convert a bunch of SVG
 
 ## Dependencies:
 
-- [Fontforge](https://fontforge.org)
-- Python 3 (tested on version 3.10.9 on Linux)
+- [Fontforge](https://fontforge.org) (tested on version 20220308)
+- [Python 3](https://www.python.org) (tested on version 3.10.9)
 
 ## Usage:
 
